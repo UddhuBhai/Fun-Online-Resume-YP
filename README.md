@@ -4,7 +4,7 @@ Welcome to the **official, totally legit, and not-at-all suspicious** online res
 
 This website is hosted via GitHub Pages and was made for fun. It’s a light-hearted take on a traditional resume, with a sprinkle of humor and a whole lotta love. 💼🎉
 
-👉 **[Check it out here!]([(https://uddhubhai.github.io/Fun-Online-Resume-YP/)])**
+👉 **[Check it out here!]((https://uddhubhai.github.io/Fun-Online-Resume-YP/))**
 
 ---
 
