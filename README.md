@@ -1,36 +1,47 @@
-# 😂 Yatharth Poonia's Legendary Resume
+# 🌟 The *Totally Serious* Resume of Yatharth Poonia
 
-Welcome to the **official, totally legit, and not-at-all suspicious** online resume of **Yatharth Poonia** — a man of mystery, memes, and *mildly impressive* accomplishments.
+Welcome to the **elite** corner of the internet — where professionalism meets memes, and Yatharth Poonia’s *epic* online resume lives forever (or until the next commit).
 
-This website is hosted via GitHub Pages and was made for fun. It’s a light-hearted take on a traditional resume, with a sprinkle of humor and a whole lotta love. 💼🎉
+🎯 Hosted proudly on **GitHub Pages**
+🚀 Designed for laughs, not LinkedIn
 
-👉 **[Check it out here!]((https://uddhubhai.github.io/Fun-Online-Resume-YP/))**
-
----
-
-## 📁 About the Project
-
-* 👨‍💻 Built as a mini project for fun
-* 🌐 Hosted with GitHub Pages
-* 🎭 Purpose: Just a joke resume for my brother Harshit
-* 🎉 No serious business here, just pure vibes
+👉 **[View the Resume](https://uddhubhai.github.io/Fun-Online-Resume-YP/)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What Is This?
 
-* HTML
-* A bit of ✨spice✨
+This is a **fun-only** project built to showcase the *fake but fabulous* achievements of **Yatharth Poonia**.
+
+Think of it as:
+
+* 10% Resume
+* 90% Vibes
+* 100% Brilliance (Yatharth said that, not me)
 
 ---
 
-## 🙏 Credits
+## 🔧 Built With
 
-Made by Uddhav Matholia for my bro **Yatharth Poonia** — because even legends need a portfolio. 😎
+* Pure HTML
+* And a pinch of personality
 
 ---
 
-## ⚠️ Disclaimer
+## 💡 Why This Exists
 
-This is purely a fun project. Not a real resume. Please do not judge Harshit based on this... or maybe do 👀
+Because life’s too short to not make a fake resume for your friend.
+Also, because Yatharth deserves to have his own corner on the internet — even if it’s full of inside jokes and exaggerated glory.
 
+---
+
+## 😎 Author
+
+Made with questionable logic and sincere brotherhood by **Uddhav Matholia**
+For the one and only **Yatharth "The Legend" Poonia**
+
+---
+
+## ⚠️ Important Note
+
+This resume is not for job applications. Unless the job is being awesome — in that case, Yatharth is *overqualified*.
